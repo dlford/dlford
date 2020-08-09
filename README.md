@@ -19,6 +19,11 @@ I’m currently working on a [Home Lab Series][homelab]!
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Home Lab: Part 9 - Expanding Your Home Network](https://www.dlford.io//expanding-your-home-network-how-to-home-lab-part-9/)
+- [devJournal: 2020-05-05](https://www.dlford.io//devjournal/2020-05-05/)
+- [How to Set Up Serverless Form Submissions with AWS Lambda](https://www.dlford.io//aws-lambda-handling-form-submissions/)
+- [devJournal: 2020-04-03](https://www.dlford.io//devjournal/2020-04-03/)
+- [How to Home Lab: Part 8 - Introduction to Docker: Installation and Usage.](https://www.dlford.io//docker-basics-how-to-home-lab-part-8/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

@@ -4,7 +4,7 @@ I'm a Developer, Designer, IT/Linux Nerd, and Musician.
 Most of my code lives on a private GitLab server,
 but I'm working on cleaning things up and moving them here.
 
-I’m currently working on a [Home Lab Series][homelab]!
+I’m currently working on a [Full-Stack Gatsby Starter][fullstack_starter]!
 
 ### Connect with me:
 
@@ -32,6 +32,6 @@ I’m currently working on a [Home Lab Series][homelab]!
 <img align="left" alt="dlford's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlford&layout=compact" />
 
 [website]: https://www.dlford.io
-[homelab]: https://www.dlford.io/tag/how-to-home-lab-series/
+[fullstack_starter]: https://github.com/dlford/gatsby-apollo-typescript-fullstack-starter
 [twitter]: https://twitter.com/TheDLFord
 [linkedin]: https://linkedin.com/in/TheDLFord

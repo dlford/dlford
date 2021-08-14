@@ -4,8 +4,6 @@ I'm a Developer, Designer, IT/Linux Nerd, and Musician.
 Most of my code lives on a private GitLab server,
 but I'm working on cleaning things up and moving them here.
 
-I’m currently working on a [Full-Stack Gatsby Starter][fullstack_starter]!
-
 ### Connect with me:
 
 [<img align="left" alt="dlford.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]

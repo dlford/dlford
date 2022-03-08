@@ -1,8 +1,6 @@
 ### Hi there, I'm Dan - aka [dlford][website]
 
 I'm a Developer, Designer, IT/Linux Nerd, and Musician.
-Most of my code lives on a private GitLab server,
-but I'm working on cleaning things up and moving them here.
 
 I'm currently working on a [Developer Utilities PWA](https://utils.dlford.io)!
 

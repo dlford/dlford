@@ -17,11 +17,11 @@ I'm currently working on a [Developer Utilities PWA](https://utils.dlford.io)!
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Crazy Fast Websites with Hugo and Webpack - Part 1](https://www.dlford.io/hugo-webpack-fast-websites-part-1/)
 - [Orchestrate Your Systems with Ansible Playbooks - How to Home Lab Part 10](https://www.dlford.io/ansible-orchestration-how-to-home-lab-part-10/)
 - [dlford.io Redesign 2022, and What the Future Holds](https://www.dlford.io/dlfordio-redesign-2022/)
 - [How to Build a Hand Wired Split Ergonomic Keyboard with Per-Key RGB LEDs](https://www.dlford.io/keyboard-build-guide-per-key-rgb-leds/)
 - [Expanding Your Home Network - How to Home Lab Part 9](https://www.dlford.io/expanding-your-home-network-how-to-home-lab-part-9/)
-- [How to Set Up Serverless Form Submissions with AWS Lambda](https://www.dlford.io/aws-lambda-handling-form-submissions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

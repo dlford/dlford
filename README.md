@@ -2,7 +2,7 @@
 
 I'm a Developer, Designer, IT/Linux Nerd, and Musician.
 
-I'm currently working on a [Developer Utilities PWA](https://utils.dlford.io)!
+I'm currently working on a [Developer Utilities PWA](https://www.developertools.tech)!
 
 ### Connect with me:
 

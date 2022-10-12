@@ -97,11 +97,15 @@ I have a passion for creating things that look great and perform even better, I 
 
 <table><tr><td valign="top" width="50%">
 
-<img align="left" style="width: 100%" alt="dlford's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dlford&count_private=true&show_icons=true&theme=onedark&custom_title=GitHub Stats&hide_border=true" />
+<div align="center">
+  <img align="center" alt="dlford's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dlford&count_private=true&show_icons=true&theme=onedark&custom_title=GitHub Stats&hide_border=true" />
+</div>
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlford&theme=onedark&layout=compact&hide_border=true" align="left" style="width: 100%" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlford&theme=onedark&layout=compact&hide_border=true" align="center" />
+</div>
 
 </td></tr></table>
 <br />

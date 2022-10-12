@@ -39,13 +39,13 @@ I have a passion for creating things that look great and perform even better, I 
 
 <table><tr><td valign="top" width="50%">
 
--  I’m currently working on a [Developer Tools PWA](https://www.developertools.tech)
+- 🎈 I’m currently working on a [Developer Tools PWA](https://www.developertools.tech)
 
-- 🌱 I’m currently learning Kotlin and Android development
+- 📚 I’m currently learning Kotlin and Android development
 
 - ❓ Ask me about anything about React and related technologies
 
-- ⚡ Fun fact: I use Vim, and Arch btw
+- 😎 Fun fact: I use Vim, and Arch btw
 
 </td><td valign="top" width="50%">
 
@@ -106,3 +106,4 @@ I have a passion for creating things that look great and perform even better, I 
 </td></tr></table>
 
 <br />
+

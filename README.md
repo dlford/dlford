@@ -25,7 +25,6 @@ I have a passion for creating things that look great and perform even better, I 
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Full-Stack Web Authentication - Part 1](https://www.dlford.io/web-authentication-full-stack-part-1/)
 - [Building Crazy Fast Websites with Hugo and Webpack - Part 1](https://www.dlford.io/hugo-webpack-fast-websites-part-1/)
 - [Orchestrate Your Systems with Ansible Playbooks - How to Home Lab Part 10](https://www.dlford.io/ansible-orchestration-how-to-home-lab-part-10/)

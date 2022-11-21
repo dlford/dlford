@@ -1,4 +1,4 @@
-![header_gh](https://user-images.githubusercontent.com/22881850/203073681-912e113a-0737-4d8c-a9d2-a1da6f5148df.png)
+![techie abstract image](https://user-images.githubusercontent.com/22881850/203073681-912e113a-0737-4d8c-a9d2-a1da6f5148df.png)
 
 # Hi there 👋, I'm Dan - a.k.a. DL Ford
 

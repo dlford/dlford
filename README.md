@@ -29,11 +29,11 @@ I have a passion for creating things that look great and perform even better, I 
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Web Accessibility is so Ambiguous, and How to Navigate it](https://www.dlford.io/web-accessibility-ambiguous/)
 - [dlford.io Redesign 2025 and Post-Mortem](https://www.dlford.io/dlfordio-redesign-2025/)
 - [Hardware Hacking: MikroTik 10GbE Copper Cooling](https://www.dlford.io/mikrotik-10gbe-copper-cooling-mod/)
 - [Building Crazy Fast Websites with Hugo and Webpack - Part 2](https://www.dlford.io/hugo-webpack-fast-websites-part-2/)
 - [Why a Chromebook Has Replaced My Laptop](https://www.dlford.io/chromebook-replace-laptop/)
-- [Full-Stack Web Authentication - Part 1](https://www.dlford.io/web-authentication-full-stack-part-1/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>

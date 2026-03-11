@@ -20,6 +20,8 @@
   <img src=https://img.shields.io/badge/sponsor-%23ff4e4e.svg?&style=for-the-badge&logo=github-sponsors&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 
+Looking for my open source projects? They've moved to [Codeberg](https://codeberg.org/dlford)!
+
 ## About Me
 
 I'm a Developer, Designer, IT/Linux Nerd, and Musician.
